@@ -1,7 +1,6 @@
 *{
     margin: 0;
-    padding: 0;
-    
+    padding: 0;  
 }
 
 .container{
@@ -10,8 +9,8 @@
     width: 100%;
     height: 100vh;
     margin: auto;
-
 }
+
 .content{
     background-color: transparent;
     border: 2px solid rgb(208, 208, 208);
@@ -24,6 +23,7 @@
     left: 25%;
     text-align: center;
 }
+
 .content h1{
     color: rgb(235, 235, 235);
     position: relative;
